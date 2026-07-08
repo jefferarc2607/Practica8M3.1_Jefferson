@@ -1,4 +1,4 @@
-﻿namespace AbsoluteLayout_6133261
+﻿namespace FlexLayout_6133261
 {
     public partial class AppShell : Shell
     {

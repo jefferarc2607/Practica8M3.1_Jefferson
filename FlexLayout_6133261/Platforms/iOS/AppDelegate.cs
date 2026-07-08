@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace AbsoluteLayout_6133261
+namespace FlexLayout_6133261
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

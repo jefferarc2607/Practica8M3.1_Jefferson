@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Shell
-    x:Class="AbsoluteLayout_6133261.AppShell"
+    x:Class="FlexLayout_6133261.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:AbsoluteLayout_6133261"
-    Title="AbsoluteLayout_6133261">
+    xmlns:local="clr-namespace:FlexLayout_6133261"
+    Title="FlexLayout_6133261">
 
     <ShellContent
         Title="Home"

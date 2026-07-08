@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace AbsoluteLayout_6133261
+namespace FlexLayout_6133261
 {
     public static class MauiProgram
     {

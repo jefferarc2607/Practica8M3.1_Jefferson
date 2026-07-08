@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace AbsoluteLayout_6133261
+namespace FlexLayout_6133261
 {
     [Application]
     public class MainApplication : MauiApplication
